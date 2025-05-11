@@ -1,4 +1,5 @@
 Number Plate Detection and Recognition
+
 This project demonstrates how to detect and recognize number plates from images using OpenCV's Haar Cascades for object detection and EasyOCR for optical character recognition.
 
 📌 Features
